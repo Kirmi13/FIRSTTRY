@@ -1,2 +1,2 @@
 # FIRSTTRY
-Just learnign Git
+Just learning Git
